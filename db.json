@@ -1,112 +1,116 @@
 {
-  "k": {
-    "basic": {
-      "firstName": "Danny",
-      "lastName": "Kaganovitch",
-      "email": "danny.kaganovitch@gmail.com",
-      "logo": "https://i.ibb.co/mDqB0ys/49536502-biceps-flex-arm-vector-icon.jpg",
-      "facebook": "",
-      "linkedin": "",
-      "twitter": "",
-      "instagram": ""
+  "k":{
+    "basic":{
+      "firstName":"Danny",
+      "lastName":"Kaganovitch",
+      "email":"danny.kaganovitch@gmail.com",
+      "logo":"https://i.ibb.co/mDqB0ys/49536502-biceps-flex-arm-vector-icon.jpg",
+      "facebook":"",
+      "linkedin":"",
+      "twitter":"",
+      "instagram":""
     },
-    "homepage": {
-      "top": {
-        "title": "Oracle Developer",
-        "description": "Hello, I’m Smith Welcome to my World.",
-        "backImage": "https://i.ibb.co/jLWny7n/1589192142126.jpg",
+    "homepage":{
+      "top":{
+        "title":"Oracle Developer",
+        "description":"Hello, I’m Smith Welcome to my World.",
+        "backImage":"https://i.ibb.co/jLWny7n/1589192142126.jpg"
       },
-      "aboutMe": {
-        "image": "https://i.ibb.co/jLWny7n/1589192142126.jpg",
-        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum,",
-        "skills": [
+      "aboutMe":{
+        "image":"https://i.ibb.co/jLWny7n/1589192142126.jpg",
+        "desc":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum,",
+        "skills":[
           {
-            "name": "Main Skills",
-            "details": [
+            "name":"Main Skills",
+            "details":[
               {
-                "title": "Web Application Development",
-                "org": "Development",
-                "desc": "Websites, web experiences, ..."
+                "title":"Web Application Development",
+                "org":"Development",
+                "desc":"Websites, web experiences, ..."
               },
               {
-                "title": "User experience design ",
-                "org": "UI/UX",
-                "desc": "Delight the user and make it work."
+                "title":"User experience design ",
+                "org":"UI/UX",
+                "desc":"Delight the user and make it work."
               }
             ]
           },
           {
-            "name": "Experience",
-            "details": [
+            "name":"Experience",
+            "details":[
               {
-                "title": "Sr. Front-end Engineer",
-                "org": "Google",
-                "subtitle": "2018 - Current",
-                "desc": "I worked on building web applications in Google"
+                "title":"Sr. Front-end Engineer",
+                "org":"Google",
+                "subtitle":"2018 - Current",
+                "desc":"I worked on building web applications in Google"
               },
               {
-                "title": "Sr. Front-end Engineer",
-                "org": "Google",
-                "subtitle": "2009",
-                "desc": "I learnt xxxx"
+                "title":"Sr. Front-end Engineer",
+                "org":"Google",
+                "subtitle":"2009",
+                "desc":"I learnt xxxx"
               }
             ]
           },
           {
-            "name": "Education & Certification",
-            "details": [
+            "name":"Education & Certification",
+            "details":[
               {
-                "title": "BSc In CSE",
-                "org": "ABC Institute, Los Angeles, CA",
-                "subtitle": "2009",
-                "desc": "I learnt xxxx"
+                "title":"BSc In CSE",
+                "org":"ABC Institute, Los Angeles, CA",
+                "subtitle":"2009",
+                "desc":"I learnt xxxx"
               }
             ]
           }
         ]
       },
-      "services": {
-        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
-        "details": [
+      "services":{
+        "desc":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
+        "details":[
           {
-            "id": "web-development",
-            "icon": "xxx",
-            "title": "Website Development",
-            "desc": "  I throw myself down among the tall grass by the stream as I lie close to the earth. "
+            "id":"web-development",
+            "icon":"xxx",
+            "title":"Website Development",
+            "desc":"  I throw myself down among the tall grass by the stream as I lie close to the earth. "
           }
         ]
       },
-      "projects": {
-        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
-        "details": [
+      "projects":{
+        "desc":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
+        "details":[
           {
-            "id": "kohmee",
-            "image": "xxx",
-            "tag": "Development",
-            "title": "Getting tickets to big show"
+            "id":"kohmee",
+            "image":"xxx",
+            "tag":"Development",
+            "title":"Getting tickets to big show"
           }
         ]
       },
-      "news": [],
-      "contactUs": false
+      "news":[
+        
+      ],
+      "contactUs":false
     },
-    "pf": [
+    "pf":[
       {
-
+        
       }
     ]
   },
-  "news": [],
-  "services": [
+  "news":[
+    
+  ],
+  "services":[
     {
-      "id": "web-development",
-      "desc": "XX",
+      "id":"web-development",
+      "desc":"XX"
     }
   ],
-  "projects": [
+  "projects":[
     {
-      "id": "kohmee",
-      "images": [
+      "id":"kohmee",
+      "images":[
         "https://i.ibb.co/xDZnLM1/Deepin-Scrot-0849.png",
         "https://i.ibb.co/mtgsD9r/Deepin-Scrot-0922.png",
         "https://i.ibb.co/Ny8mL2k/Deepin-Scrot-0939.png",
@@ -116,7 +120,7 @@
       ]
     }
   ],
-  "b": {
-
+  "b":{
+    
   }
 }
