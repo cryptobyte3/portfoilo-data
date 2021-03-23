@@ -8,7 +8,7 @@
       "facebook": "",
       "linkedin": "",
       "twitter": "",
-      "instagram": "",
+      "instagram": ""
     },
     "homepage": {
       "top": {
@@ -83,12 +83,12 @@
             "id": "kohmee",
             "image": "xxx",
             "tag": "Development",
-            "title": "Getting tickets to big show",
+            "title": "Getting tickets to big show"
           }
         ]
       },
       "news": [],
-      "contactUs": false,
+      "contactUs": false
     },
     "pf": [
       {
